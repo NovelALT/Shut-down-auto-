@@ -1,0 +1,43 @@
+* {
+    background-color: #282a36;
+    color: #f8f8f2;
+    border: 0;
+}
+
+QPushButton {
+    background-color: #44475a;
+    color: #f8f8f2;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+QPushButton:hover {
+    background-color: #6272a4;
+}
+
+QLineEdit {
+    background-color: #44475a;
+    color: #f8f8f2;
+    border: 2px solid #6272a4;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+QLabel {
+    color: #f8f8f2;
+}
+
+QMessageBox {
+    background-color: #282a36;
+    color: #f8f8f2;
+}
+
+QMessageBox QPushButton {
+    background-color: #44475a;
+    color: #f8f8f2;
+    border-radius: 5px;
+}
+
+QMessageBox QPushButton:hover {
+    background-color: #6272a4;
+}
